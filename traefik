@@ -1,2 +1,2 @@
-FROM traefik
+FROM docker.io/traefik
 MAINTAINER chunglou@163.com
